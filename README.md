@@ -1,5 +1,5 @@
 # Script to call germline variants in a human WGS paired end reads 2 X 100bp
-# Following GATK4 best practices workflow: https://gatk.broadinstitute.org/hc/en-us/articles/360035535932-Germline-short-variant-discovery-SNPs-Indels-
+Following GATK4 best practices workflow: https://gatk.broadinstitute.org/hc/en-us/articles/360035535932-Germline-short-variant-discovery-SNPs-Indels-
 
 ## Data files used:
 
@@ -15,7 +15,7 @@ wget ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/phase3/data/HG00096/sequence_r
 # wget -P /Users/davneetkaur/Desktop/Personal_Git_Projects/VCA_projects/Supporting_Files/hg38 https://storage.googleapis.com/genomics-public-data/resources/broad/hg38/v0/Homo_sapiens_assembly38.dbsnp138.vcf
 # wget -P /Users/davneetkaur/Desktop/Personal_Git_Projects/VCA_projects/Supporting_Files/hg38 https://storage.googleapis.com/genomics-public-data/resources/broad/hg38/v0/Homo_sapiens_assembly38.dbsnp138.vcf.idx
 
-```bash
+----------
 
 ###################################################### VARIANT CALLING STEPS ####################################################################
 

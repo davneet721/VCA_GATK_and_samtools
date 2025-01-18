@@ -14,9 +14,9 @@ wget ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/phase3/data/HG00096/sequence_r
 # download known sites files for BQSR from GATK resource bundle
 # wget -P /Users/davneetkaur/Desktop/Personal_Git_Projects/VCA_projects/Supporting_Files/hg38 https://storage.googleapis.com/genomics-public-data/resources/broad/hg38/v0/Homo_sapiens_assembly38.dbsnp138.vcf
 # wget -P /Users/davneetkaur/Desktop/Personal_Git_Projects/VCA_projects/Supporting_Files/hg38 https://storage.googleapis.com/genomics-public-data/resources/broad/hg38/v0/Homo_sapiens_assembly38.dbsnp138.vcf.idx
-
 ```
-
+# Summary of further steps in the shell file:
+```bash
 ###################################################### VARIANT CALLING STEPS ####################################################################
 
 # -------------------
